@@ -1,0 +1,68 @@
+#cube div div {
+    border: 1px solid black;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: -4px 0 0 -4px;
+}
+
+/*#blueSide div {
+    background-color: blue;
+}*/
+
+/*#redSide div {
+    background-color: red;
+}
+
+#yellowSide div {
+    background-color: yellow;
+}
+
+#orangeSide div {
+    background-color: orange;
+}
+
+#greenSide div {
+    background-color: green;
+}
+
+#whiteSide div {
+    background-color: white;
+}*/
+
+#buttons a, #alg a {
+    border: 1px solid white;
+    width: 50px;
+    height: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+    display: inline-block;
+}
+
+#alg {
+    margin-top: 10px;
+}
+
+#buttons {
+    margin-top: 30px;
+}
+
+#cube div {
+    display: inline-block;
+}
+
+#yellowSide {
+    margin-left: 160px;
+    margin-bottom: 5px;
+}
+
+#whiteSide {
+    margin-left: 160px;
+    margin-top: 5px;
+}
+
+body {
+    background-color: pink;
+}
